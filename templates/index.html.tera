@@ -1,0 +1,6 @@
+{% extends "base" %}
+
+{% block content %}
+<h1>Hi {{name}}</h1>
+<h2>Es funktioniert, {{name}}</h2>
+{% endblock content %}
