@@ -1,0 +1,2 @@
+[global.databases]
+thingsdb = { url = "postgres://antonecto:onlylocal@localhost/antondb" }

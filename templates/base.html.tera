@@ -8,7 +8,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
   </head>
   <body>
-    <nav class="blue darken-4" role="navigation">
+    <nav class="blue darken-5" role="navigation">
       <ul class="left">
         <li><a class="waves-effect blue-grey darken-3 btn">button</a></li>
         <li><a class="waves-effect blue-grey darken-3 btn">button</a></li>

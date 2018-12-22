@@ -2,7 +2,6 @@
 name = "things"
 version = "0.1.0"
 authors = ["Anton Rechenauer <antonrechenauer@gmail.com>"]
-edition = "2018"
 
 [dependencies]
 rocket="0.4.0"
@@ -15,4 +14,4 @@ dotenv = "0.9.0"
 [dependencies.rocket_contrib]
 version = "0.4.0"
 default-features = false
-features = ["tera_templates","diesel_postgres_pool"]
+features = ["tera_templates", "diesel_postgres_pool"]
